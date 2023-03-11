@@ -10,7 +10,7 @@ public class PeakIdxMountain {
         while (start < end){  // check the pen paper condition for the impl
             int mid = start + (end - start) / 2;
             if( arr[mid] > arr[mid+1]){
-                end = mid;
+                end = mid; // check in the middle of the array
             } else {
                 start = mid + 1;
             }
