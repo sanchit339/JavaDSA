@@ -21,8 +21,8 @@ public class SortedMatrix {
         }
         return new int[]{ -1 , -1 };
     }
-    static int[] search(int[][] matrix , int target){
-        int row = matrix.length;
-        int column = matrix[0].length; // matrix may be empty
-    }
+//    static int[] search(int[][] matrix , int target){
+//        int row = matrix.length;
+//        int column = matrix[0].length; // matrix may be empty
+//    }
 }
