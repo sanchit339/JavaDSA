@@ -1,0 +1,33 @@
+# =========================
+# Build / Compiled Artifacts
+# =========================
+*.class
+*.bin
+
+# Build output folders
+bin/
+.bin/
+out/
+target/
+dist/
+
+# =========================
+# IDE / Editor Settings
+# =========================
+
+# IntelliJ IDEA
+.idea/
+*.iml
+
+# VS Code
+.vscode/
+
+# =========================
+# OS-specific files
+# =========================
+.DS_Store  # macOS
+
+# =========================
+# Competitive Programming Helper (CPH)
+# =========================
+.cph/
