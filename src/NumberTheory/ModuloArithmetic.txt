@@ -1,0 +1,13 @@
+(a + b) % m = ((a%m) + (b%m))%m
+(a-b)%m = ((a%m) - (b%m) + m ) %m
+(a*b) % m (a%m) * (b%m) %m
+
+
+(a/b)%m = ((a%m) * (b^-1%m)) % m
+
+b^-1 % m = (6*y) % 6 = 1 [ 6*6 % 7] == 1
+means 7 , y are co prime (y*7) = 1
+
+fermat little theorem
+ab^(p-1) = a%p
+

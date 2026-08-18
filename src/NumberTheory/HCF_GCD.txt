@@ -1,0 +1,33 @@
+/*
+    there's an extended euclidean algorithm which direct gives the values of x , y
+*/
+
+Ax+By = c
+the min value of c we can get is the hcf of the A , B
+
+3x + 5y = 4;
+hcf = 1
+3(-3) + 5(2) = 1 min value of an equation
+
+let's solve the bucket problem
+two jugs A liter and B liter
+you have to fill c liters of water
+
+ex 3x + 5y = 4
+means 3 liter jug and 5 liter jug get 4 liter filled
+
+just get the hcf of 3 , 5
+
+NOTE :- HCF ypu get is the common factor
+
+2x + 4y = 5
+hcf = 2  == 2.5
+so , you can fill the water tank of 5 liter exact
+
+3x + 6y = 9
+x + 3y = 3
+hcf = 3 so , you can fill the tank of 9 liters
+
+3x + 7y = 17
+here HCF = 1 so , you can fill any amount of water
+
